@@ -19,6 +19,8 @@ MST 알고리즘과 최단거리 알고리즘의 결과를 비교합니다.
 
 ## 그래프 구성
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/bf91f55b-ded7-4a3a-9a90-6245ebc6d944" />
+
 ### 정점(Vertex)
 
 | 번호 | 건물 |
